@@ -1,16 +1,23 @@
-## Hi there 👋
+# YourUsername
 
-<!--
-**Aziz-Chebil/Aziz-Chebil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student @Télécom Paris, Institut Polytechnique de Paris. Interested in cryptography, ML, and quantum computing.
+ 
+## Public Projects Index
+ 
+**Projects** 
+ 
+* __[Quantum For Everyone](https://play.google.com/store/apps/details?id=com.chebilaziz.quantuminafrica&fbclid=IwAR0lUcSlvgqTIQ_z49CDmUPdm3VXzpZhMQ98kXqTbnuo7Swh5XVrPfsKJJE)__ – Educational mobile app about
+quantum computing w/ ReactJS (500+ downloads);
+* __[Semantic Book recommender ](https://github.com/Aziz-Chebil/Semantic-Book-Recommender)__ – Intelligent book recommendation system powered by LLM
+and semantic search (Python, LangChain, Gradio, Numpy);
+* __[Quantum-Dice](https://github.com/Aziz-Chebil/Quantum-Dice)__ – Simple project yet close to my heart: quantum dice simulation and implemented on a
+real quantum computer (Python, Qiskit);
+**Hackathons** — Projects from competitive events
+ 
+* __[HackEurope 2026](https://github.com/Aziz-Chebil/HackEurope-2026-Hoga)__ – Advanced twitter bot detection model (Python);
+* __[Girls in Quantum QVolution 2026](https://github.com/nitya-d/quantum_hackathon_options_pricing/tree/combined)__ – Quantum ML for swaption surface
+forecasting (Quandela SDK) (__[demo](https://oliviarosel.github.io/fanot_qubits_webpage/))
+* __[Quantum Internet Alliance Hackathon 2025](https://github.com/Aziz-Chebil/QIA-s-Pan-European-Quantum-Internet-Hackathon-2025)__ – Solutions to problems
+related to QKD and CHSH challenges (SquidASM);
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
