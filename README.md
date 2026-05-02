@@ -12,6 +12,8 @@ quantum computing w/ ReactJS (500+ downloads);
 and semantic search (Python, LangChain, Gradio, Numpy);
 * __[Quantum-Dice](https://github.com/Aziz-Chebil/Quantum-Dice)__ – Simple project yet close to my heart: quantum dice simulation and implemented on a
 real quantum computer (Python, Qiskit);
+
+
 **Hackathons** — Projects from competitive events
  
 * __[HackEurope 2026](https://github.com/Aziz-Chebil/HackEurope-2026-Hoga)__ – Advanced twitter bot detection model (Python);
