@@ -16,9 +16,9 @@ real quantum computer (Python, Qiskit);
 
 **Hackathons** — Projects from competitive events
  
-* __[HackEurope 2026](https://github.com/Aziz-Chebil/HackEurope-2026-Hoga)__ – Advanced twitter bot detection model (Python);
+* __[HackEurope 2026](https://github.com/Aziz-Chebil/HackEurope-2026-Hoga)__ – Advanced twitter bot detection model (Python);  ([devpost demo](https://devpost.com/software/a-fmcsqo))
 * __[Girls in Quantum QVolution 2026](https://github.com/nitya-d/quantum_hackathon_options_pricing/tree/combined)__ – Quantum ML for swaption surface
-forecasting (Quandela SDK) (__[demo](https://oliviarosel.github.io/fanot_qubits_webpage/))
+forecasting (Quandela SDK) ([demo](https://oliviarosel.github.io/fanot_qubits_webpage/));
 * __[Quantum Internet Alliance Hackathon 2025](https://github.com/Aziz-Chebil/QIA-s-Pan-European-Quantum-Internet-Hackathon-2025)__ – Solutions to problems
 related to QKD and CHSH challenges (SquidASM);
 
