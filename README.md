@@ -5,7 +5,8 @@ Engineering student @Télécom Paris, Institut Polytechnique de Paris. Intereste
 ## Public Projects Index
  
 **Projects** 
- 
+
+* __[BeyondPixels](https://github.com/Aziz-Chebil/BeyondPixels)__ –Multi-modal medical imaging diagnosis combining text (radiology reports) and image (Png/DICOM) analysis, a 5-month project at Télécom Paris (Python, PyTorch, BERT, ViT, FastAPI);
 * __[Quantum For Everyone](https://play.google.com/store/apps/details?id=com.chebilaziz.quantuminafrica&fbclid=IwAR0lUcSlvgqTIQ_z49CDmUPdm3VXzpZhMQ98kXqTbnuo7Swh5XVrPfsKJJE)__ – Educational mobile app about
 quantum computing w/ ReactJS (500+ downloads);
 * __[Semantic Book recommender ](https://github.com/Aziz-Chebil/Semantic-Book-Recommender)__ – Intelligent book recommendation system powered by LLM
