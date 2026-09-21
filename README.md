@@ -26,5 +26,5 @@ related to QKD and CHSH challenges (SquidASM);
 
 **Open Source** — Contributions to major projects
 
-* __[Qiskit](https://github.com/Qiskit/qiskit)__ – Contributed a fix (under review) for a QASM 3 exporter bug where identifiers colliding with OpenQASM 3 built-in constants (`pi`, `tau`, `euler`) weren't being escaped, breaking round-trips through `qasm3.loads` ([PR #16183](https://github.com/Qiskit/qiskit/pull/16183));
+* __[Qiskit](https://github.com/Qiskit/qiskit)__ – Contributed a fix (Merged :) ) for a QASM 3 exporter bug where identifiers colliding with OpenQASM 3 built-in constants (`pi`, `tau`, `euler`) weren't being escaped, breaking round-trips through `qasm3.loads` ([PR #16183](https://github.com/Qiskit/qiskit/pull/16183));
 
