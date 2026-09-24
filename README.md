@@ -16,11 +16,15 @@ real quantum computer (Python, Qiskit);
 
 
 **Hackathons** — Projects from competitive events
- 
+
+* __[Yale Quantum Hackathon Blue Qubit 2026](https://drive.google.com/file/d/1UtzCCyJArRTcoivtnBj24FQgMaTGxzKz/view?usp=sharing)__ – Solved 9 out of 10 problems about peaked circuits and ranked 6th out of 500+ contestants (Python);
+* __[QSITE 2026 – Quantum Coalition](https://github.com/Aziz-Chebil/Q-SITE-Computational-Track-Project)__ – Qubit placement & SWAP-routing compiler for a
+  20-qubit heavy-hex chip: simulated annealing + depth-aware beam-search router, 76% below baseline with 3/6 benchmarks provably optimal (Python, NetworkX)
+  ([write-up](https://github.com/Aziz-Chebil/Q-SITE-Computational-Track-Project/blob/main/Computational%20Track/writeup/writeup.pdf),
+  [video](https://www.youtube.com/watch?v=t-7HvfPSCiM));
 * __[HackEurope 2026](https://github.com/Aziz-Chebil/HackEurope-2026-Hoga)__ – Advanced twitter bot detection model (Python);  ([devpost demo](https://devpost.com/software/a-fmcsqo))
 * __[Girls in Quantum QVolution 2026](https://github.com/nitya-d/quantum_hackathon_options_pricing/tree/combined)__ – Quantum ML for swaption surface
 forecasting (Quandela SDK) ([demo](https://oliviarosel.github.io/fanot_qubits_webpage/));
-* __[Yale Quantum Hackathon Blue Qubit 2026](https://drive.google.com/file/d/1UtzCCyJArRTcoivtnBj24FQgMaTGxzKz/view?usp=sharing)__ – Solved 9 out of 10 problems about peaked circuits and ranked 6th out of 500+ contestants (Python);
 * __[Quantum Internet Alliance Hackathon 2025](https://github.com/Aziz-Chebil/QIA-s-Pan-European-Quantum-Internet-Hackathon-2025)__ – Solutions to problems
 related to QKD and CHSH challenges (SquidASM);
 
