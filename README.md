@@ -1,6 +1,6 @@
 # Aziz Chebil
 
-2nd year student @Télécom Paris, Institut Polytechnique de Paris. I like to build models that understand complex world data. 
+2nd year student @Télécom Paris, Institut Polytechnique de Paris. I like to work with quantum circuits, ML models/ AI agents, and data. 
 Recently, I served as a Teaching Assistant for one month at Addis Coder, where I taught algorithms & computational thinking in Python to Ethiopian high schoolers.
  
 ## Public Projects Index
