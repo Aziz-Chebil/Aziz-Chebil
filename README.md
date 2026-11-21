@@ -1,36 +1,4 @@
 # Aziz Chebil
 
-First year Msc. student @Télécom Paris, Institut Polytechnique de Paris. I like to work with quantum circuits, ML models/ AI agents, and data. 
-Recently, I served as a Teaching Assistant for one month at Addis Coder, where I taught algorithms & computational thinking in Python to Ethiopian high schoolers.
-Currently, I am looking for 3-6 months internships that start on July 2027.
- 
-## Public Projects Index
- 
-**Projects** 
-
-* __[BeyondPixels](https://github.com/Aziz-Chebil/BeyondPixels)__ –Multi-modal medical imaging diagnosis combining text (radiology reports) and image (Png/DICOM) analysis, a 5-month project at Télécom Paris (Python, PyTorch, BERT, ViT, FastAPI);
-* __[Quantum For Everyone]__ – Developed an educational mobile app about quantum computing w/ ReactJS and reached 500+ users;
-* __[Semantic Book recommender ](https://github.com/Aziz-Chebil/Semantic-Book-Recommender)__ – Intelligent book recommendation system powered by LLM
-and semantic search (Python, LangChain, Gradio, Numpy);
-* __[Quantum-Dice](https://github.com/Aziz-Chebil/Quantum-Dice)__ – Simple project yet close to my heart: quantum dice simulation and implemented on a
-real quantum computer (Python, Qiskit);
-
-
-**Hackathons** — Projects from competitive events
-
-* __[Yale Quantum Hackathon Blue Qubit 2026](https://drive.google.com/file/d/1UtzCCyJArRTcoivtnBj24FQgMaTGxzKz/view?usp=sharing)__ – Solved 9 out of 10 problems about peaked circuits and ranked 6th out of 500+ contestants (Python);
-* __[QSITE 2026 – Quantum Coalition](https://github.com/Aziz-Chebil/Q-SITE-Computational-Track-Project)__ – Qubit placement & SWAP-routing compiler for a
-  20-qubit heavy-hex chip: simulated annealing + depth-aware beam-search router, 76% below baseline with 3/6 benchmarks provably optimal (Python, NetworkX)
-  ([write-up](https://github.com/Aziz-Chebil/Q-SITE-Computational-Track-Project/blob/main/Computational%20Track/writeup/writeup.pdf),
-  [video](https://www.youtube.com/watch?v=t-7HvfPSCiM));
-* __[HackEurope 2026](https://github.com/Aziz-Chebil/HackEurope-2026-Hoga)__ – Advanced twitter bot detection model (Python);  ([devpost demo](https://devpost.com/software/a-fmcsqo))
-* __[Girls in Quantum QVolution 2026](https://github.com/nitya-d/quantum_hackathon_options_pricing/tree/combined)__ – Quantum ML for swaption surface
-forecasting (Quandela SDK) ([demo](https://oliviarosel.github.io/fanot_qubits_webpage/));
-* __[Quantum Internet Alliance Hackathon 2025](https://github.com/Aziz-Chebil/QIA-s-Pan-European-Quantum-Internet-Hackathon-2025)__ – Solutions to problems
-related to QKD and CHSH challenges (SquidASM);
-
-**Open Source** — Contributions to major projects
-
-* __[Qiskit](https://github.com/Qiskit/qiskit)__ – Contributed a fix (Merged :) ) for a QASM 3 exporter bug where identifiers colliding with OpenQASM 3 built-in constants (`pi`, `tau`, `euler`) weren't being escaped, breaking round-trips through `qasm3.loads` ([PR #16183](https://github.com/Qiskit/qiskit/pull/16183));
-* __[Pulser](https://github.com/pasqal-io/Pulser)__ -Extended Pulser’s observable framework to support Pauli-string expectation values, with comprehensive tests and backward-compatible integration for quantum many-body simulations (merged) ([PR #1133](https://github.com/pasqal-io/Pulser/pull/1133));
+Loading ...
 
